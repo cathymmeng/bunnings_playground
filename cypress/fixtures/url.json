@@ -1,0 +1,5 @@
+{
+    "prod_env_url": "https://www.bunnings.com.au/",
+    "uat_env_url":"update this url for UAT",
+    "dev_env_url":"update this url for DEV"
+  }
